@@ -1,5 +1,5 @@
 <kmodule xmlns="http://jboss.org/kie/6.0.0/kmodule">
-  <kbase name="kbase" packages="vendor-registration-process">
-    <ksession name="ksession"/>
+  <kbase name="vendor-registration-kbase" packages="vendor-registration-process">
+    <ksession name="vendor-registration-ksession"/>
   </kbase>
 </kmodule>
